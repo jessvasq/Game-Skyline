@@ -1,0 +1,42 @@
+
+
+.box {
+    width: 1000px;
+    height: 500px;
+    border: solid 1mm;
+    border-color: black;
+    margin: 1000px, 5px, 10px, 20px
+}
+
+
+#buid2 {
+    width: 100px;
+    height: 200px;
+    position: sticky;
+    animation: img1 8s infinite;
+    margin-top: 300px;
+}
+
+
+#buid1 {
+    width: 100px;
+    height: 200px;
+    position: sticky;
+    animation: img1 5s infinite;
+    margin-top: 300px;
+}
+
+#hero {
+    width: 150px;
+    height: 80px;
+    position: sticky;
+    animation: img1 5s infinite;
+    margin-top: 80px;
+}
+
+@keyframes img {
+    from{left:1100px;}
+    to{left: -40px;}
+}
+
+
