@@ -25,4 +25,4 @@ At a minimum, I want my game to have the following features:
 STRETCH GOALS
     Add background music 
     Change background (from day to night) once 5 stars are collected 
-    Maybe add other obstacles (i.e. birds, planes) as the difficulty level increases 
+    Maybe add other obstacles (i.e. birds, planes) as the difficulty level increases.
